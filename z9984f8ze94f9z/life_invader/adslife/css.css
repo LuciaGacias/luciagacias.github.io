@@ -6,11 +6,6 @@
   box-sizing: border-box;
 }
 
-html,
-body {
-  height: 100%
-}
-
 body {
   background: #454c4f;
   font: 1em/1.5 'Droid Sans', sans-serif;
